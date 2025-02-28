@@ -23,3 +23,6 @@ void loop() {
     Serial.println("El HX711 no está listo.");
   }
 }
+
+//modificacion 
+// holaaaa dani
